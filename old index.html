@@ -1,0 +1,288 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Shufan Wen's HCDE 598 Class</title>
+
+<style type="text/css">
+
+/*
+
+purple:
+http://slayeroffice.com/tools/color_palette/?hex=39275b
+Gold:
+http://slayeroffice.com/tools/color_palette/?hex=C79900
+Gold (Bright):
+http://slayeroffice.com/tools/color_palette/?hex=Ebb700
+
+*/
+*{ margin:0; padding:0;}
+
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000; 
+	background-color: #39275b; /* Purple*/
+	/*background-image: url(Images/bg-960.png);*/
+	/*background-position: top center;
+	background-repeat:repeat-y;*/
+	background-image:url(Images/bg-boxes.png);
+	background-repeat: repeat-x;
+	
+}
+
+html {
+	
+background: #ebb700; /* Old browsers */
+background: -moz-linear-gradient(top,  #ebb700 0%, #39275b 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ebb700), color-stop(100%,#39275b)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ebb700 0%,#39275b 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ebb700 0%,#39275b 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ebb700 0%,#39275b 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ebb700 0%,#39275b 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebb700', endColorstr='#39275b',GradientType=0 ); /* IE6-9 */
+
+	}
+
+h1 {
+	font-size: 36px;
+	line-height: 36px;
+	}
+	
+h2 {
+	color: #39275b; /* Purple */
+	width: 620px;
+	font-size: 24px;
+	line-height: 24px;
+	padding-top: 8px; 
+	margin-bottom: 2px;
+	
+	}
+
+h3 {
+	width: 620px;
+	font-size: 18px;
+	line-height: 18px;
+	padding-top: 8px;
+	margin-bottom: 2px;
+	
+	}
+
+p {
+	width: 620px;
+	font-size: 16px;
+	line-hight: 24px;
+	margin-bottom: 10px;
+	}
+
+ol, ul {
+	font-size: 16px;
+	line-height: 24px;
+	margin-bottom: 10px;
+	list-style-position:inside;
+}
+
+/* Header*/
+#header {
+	color: #FFF;
+	width: 980px;
+	margin: 0 auto 0 auto;
+	/*border: 1px solid black;*/
+	padding: 20px 0;
+	}
+
+#header a { color: #FFF;
+			text-decoration: none;
+
+}
+#header a:hover {
+	color: #Ebb700; /*Bright Gold*/
+}
+/* Navigation */
+#navigation {
+	width: 980px;
+	margin: 0 auto;
+	/*border: 1px solid black;*/
+/*	padding: 20px;*/
+}
+
+#navigation-items li {
+	list-style-type:none; /* get rid of the bullet points on the left side of the list items*/
+	
+	/*display: inline; /*to display in line*/
+	display: inline;
+	/*padding: 10px;*/
+/*	border: 1px pink;*/
+	width: 50px;
+	height: 50px;
+	margin-right: 20px;
+}
+
+#navigation-items li a {
+	text-decoration:none;
+	color:#FFF;
+	/*background-color: pink;*/
+	/*border: 1px solid blue;*/
+}
+
+
+#navigation-items li a:hover {
+	color:#Ebb700;
+	/*background-color: yellow;*/
+}
+
+/* Content*/
+#content {
+	width:940px;
+	margin: 0 auto;
+	padding: 20px 20px;
+	/*border: 1px solid black;*/
+	overflow:hidden;
+	background-color:#FFF;
+	border-radius:10px; 
+	
+}
+
+#content ul, #content ol{
+	padding-left:20px;
+}
+	/*Text */
+	#text{
+		width: 620px;
+		float: left;
+	}
+	
+	#text img.headshot {
+		max-width:288px;
+		border: 1px solid black;
+		float: right;
+		padding: 5px;
+		margin-left: 20px;
+		margin-bottom: 20px;
+
+	}
+	
+	#text ul li{
+		list-style-image:url(Images/bg-bullet.png);
+	}
+	
+	#content a {
+		color: #39275b; /*Purple*/
+	}
+	#content a:hover{
+		color: #Ebb700; /*Brighht Gold*/
+		text-decoration:none;
+	}
+
+	#content ul, #content ol{
+		padding:left;
+	}
+	
+#sidebar {
+width: 300px; /*the total should be 300, but border is 2, and padding is 20*/
+float: right;
+/*border: 1px solid black;*/
+/*padding: 10px;*/
+}
+
+#sidebar ul{
+	padding-left:0px;
+}
+
+#sidebar ul li { 
+list-style-image:url(Images/bg-bullet.png);
+}
+
+/*footer*/
+#footer{
+	clear:both;/*to avoid it going up*/
+	width: 940px;
+	margin: 0 auto;
+	padding: 20px;	
+	color: #FFF;
+}
+
+#footer a {
+	color:#FFF;
+}
+
+#footer a : hover {
+	text-decoration:none;
+}
+
+p.copyright {
+	font-size: 12px;
+}
+
+</style>
+</head>
+
+<body>
+
+
+
+<!-- Begin Header -->
+<div id="header">
+<h1> <a href="index.html"> Shufan Wen </a></h1>
+</div>
+<!-- End Header (/header) -->
+
+<!-- Begin Navigation -->
+<div id="navigation">
+<ul id="navigation-items">
+<li><a href="#">About</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="#">Portfolio</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</div>
+<!-- End Navigation -->
+<!-- Content -->
+
+<div id="content">
+
+	<!-- Begin Text -->
+    <article id="text">
+  
+    <img class="headshot" src="Images/IMG_5116-1.jpg" alt="It is me"/>
+<h2>Header Level 2 </h2>
+    <p><strong>Strong tag is used here</strong> It is from Kitchen sink Lorem Ipsom. It means we have to tell people the elements of typography that we are going to use in style.<em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. </p>
+    
+    <p>I wrote everything on the page by using HTML! Waha, it was difficult, but I did it ^^ <code>this is in the tag of code</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
+    
+               
+    <ol>
+       <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+       <li>Aliquam tincidunt mauris eu risus.</li>
+    </ol>
+    
+    <blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>
+    
+    <h3>Header Level 3</h3>
+    
+    <ul>
+       <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+       <li>Aliquam tincidunt mauris eu risus.</li>
+    </ul>
+    </article>
+    <!-- End Text -->
+    <!-- Begin Sidebar -->
+    <aside id= "sidebar">
+    <h2 id="sub-navigation-title">Sidebar</h2>
+    <ul id="sub-navigation">
+    <li><a href="www.google.com">Item One</a></li>
+    <li><a href="#">Item Two</a></li>
+    <li><a href="www.bing.com">Item Three</a></li>
+    
+    </ul>
+  </aside>
+    <!-- End Sidebar -->
+</div>
+<!-- End Content -->
+
+
+<div id="footer">
+<p class="copyright">&copy; 1979-2014 <a href="index.html"> Shufan Wen</a> </p>
+<!-- Begin Footer-->
+
+</body>
+</html>
