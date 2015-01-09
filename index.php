@@ -2,9 +2,11 @@
 	<!-- Begin Flexslider -->
     <div class="flexslider" >
     	<ul class="slides">
-    	<li><img src="Images/img-slide-01.jpg"  alt="Image One"></li>
-        <li><img src="Images/img-slide-02.jpg" alt="Image Two"></li>
-        <li><img src="Images/img-slide-03.jpg"  alt="Image Three"></li>
+    	<li><img src="Images/img-slide-01.jpg"  alt="Mom and son in India: Design should be human centered."></li>
+        <li><img src="Images/img-slide-02.jpg" alt="Monster bus in Taiwan: imagination rules."></li>
+        <li><img src="Images/img-slide-03.jpg"  alt="Death Valley desert: I believe in exploration."></li>
+        <li><img src="Images/img-slide-04.jpg" alt="Wave on ocean: every moment counts."></li>
+        <li><img src="Images/img-slide-05.jpg" alt="Sunset in South Pacific Ocean: Catch every moment when you can since life is wonderful!"></li>
       </ul>
       </div>
       

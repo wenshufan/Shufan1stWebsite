@@ -1,181 +1,105 @@
 <?php include('includes/header.php');  ?>
-	<!-- Begin Text -->
-    <article id="text">
+	
+<!-- Begin Text -->
+<article id="text">
   
        
-<h2>Portfolio </h2>
-    <p><strong>Welcome to my portfolio!</strong> Please find items below about what I did related to UX.</p>
+	<h2>Portfolio </h2>
+    <p><strong>Welcome to my portfolio!</strong> Please find items below about what I did related to UX and anthropology!</p>
     
 
-    	
-    <a href="http://students.washington.edu/susanwen/sketches.html">
-   
-    <img class="imgBox" src="Images/ItemImages/SketchIcon1.jpg" alt="Lotus"/>
-   
-    </a> 
-      <a href="http://students.washington.edu/susanwen/sketches.html">
-   
-    <img class="imgBox" src="Images/ItemImages/SketchIcon1.jpg" alt="Lotus"/>
-   
-    </a>
-      <a href="http://students.washington.edu/susanwen/sketches.html">
-   
-    <img class="imgBox" src="Images/ItemImages/SketchIcon1.jpg" alt="Lotus"/>
-   
-    </a>
-      <a href="http://students.washington.edu/susanwen/sketches.html">
-   
-    <img class="imgBox" src="Images/ItemImages/SketchIcon1.jpg" alt="Lotus"/>
-   
-    </a>
-<!--test
-<di<div id="wrapper">
-	<div id="columns">
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/2/2v3VhAp.png" />
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-				Sed feugiat consectetur pellentesque. Nam ac elit risus, 
-				ac blandit dui. Duis rutrum porta tortor ut convallis.
-				Duis rutrum porta tortor ut convallis.
-			</p>
-		</div>v id="wrapper">
-	<div id="columns">
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/2/2v3VhAp.png" />
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-				Sed feugiat consectetur pellentesque. Nam ac elit risus, 
-				ac blandit dui. Duis rutrum porta tortor ut convallis.
-				Duis rutrum porta tortor ut convallis.
-			</p>
-		</div>
-	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/1/1swi3Qy.png" />
-			<p>
-				Donec a fermentum nisi. 
-			</p>
-		</div>
-	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/6/6f3nXse.png" />
-			<p>
-				Nullam eget lectus augue. Donec eu sem sit amet ligula 
-				faucibus suscipit. Suspendisse rutrum turpis quis nunc 
-				convallis quis aliquam mauris suscipit.
-			</p>
-		</div>
-	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/8/8kEc1hS.png" />
-			<p>
-				Nullam eget lectus augue. Donec eu sem sit amet ligula 
-				faucibus suscipit. Suspendisse rutrum turpis quis nunc 
-				convallis quis aliquam mauris suscipit.
-			</p>
-		</div>
-	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/1/1swi3Qy.png" />
-			<p>
-				Donec a fermentum nisi. Integer dolor est, commodo ut 
-				sagittis vitae, egestas at augue. 
-			</p>
-		</div>
-	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/6/6f3nXse.png" />
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-				Sed feugiat consectetur pellentesque. Nam ac elit risus, 
-				ac blandit dui. Duis rutrum porta tortor ut convallis.
-				Duis rutrum porta tortor ut convallis.
-			</p>
-		</div>	
+<!--Pinterest style codes-->
+	<div id="wrapper">
+		<div id="columns">
 		
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/2/2v3VhAp.png" />
-			<p>
-				Nullam eget lectus augue. Donec eu sem sit amet ligula 
-				faucibus suscipit. Suspendisse rutrum turpis quis nunc 
-				convallis quis aliquam mauris suscipit.
-				Duis rutrum porta tortor ut convallis.
-			</p>
-		</div>
+        	<div class="pin">
+				<a href="http://students.washington.edu/susanwen/sketches.html">
+            	<img src="Images/Projects/AWS/AmazonCookie.jpg" alt="AWS Internship picture."/>
+				<p>
+					<strong> AWS Internship </strong>
+                	<br>
+               
+				</p>
+            	</a>
+			</div>
+      
 	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/1/1swi3Qy.png" />
-			<p>
-				Nullam eget lectus augue. 
-			</p>
-		</div>
+			<div class="pin">
+				<img src="Images/Projects/UsabilityTesting/u57.png" alt="Google Cloud Usability Testing picture" />
+				<p>
+					<strong>Google Cloud Usability Testing</strong>
+                <br>
+             	</p>
+			</div>
 	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/8/8kEc1hS.png" />
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-				Sed feugiat consectetur pellentesque. 
-			</p>
-		</div>
+			<div class="pin">
+				<img src="Images/Projects/Uxpertise/u135.jpg" alt="Uxpertise Website Design picture." />
+				<p>
+					<strong>UXpertise Website Design</strong>
+                	<br>
+				</p>
+			</div>
 	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/2/2v3VhAp.png" />
-			<p>
-				Donec a fermentum nisi. Integer dolor est, commodo ut 
-				sagittis vitae, egestas at augue. Suspendisse id nulla 
-				ac urna vestibulum mattis. Duis rutrum porta tortor ut convallis.
-			</p>
-		</div>
+			<div class="pin">
+				<img src="Images/Projects/PNV/PNV1.png" alt="Planet News and Views Website Redesign picture."/>
+				<p>
+					<strong>Planet News and Views Website Redesign </strong>
+				</p>
+			</div>
 	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/1/1swi3Qy.png" />
-			<p>
-				Donec a fermentum nisi. Integer dolor est, commodo ut 
-				sagittis vitae, egestas at augue. Suspendisse id nulla 
-				ac urna vestibulum mattis. 
-			</p>
-		</div>
-	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/6/6f3nXse.png" />
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-				Sed feugiat consectetur pellentesque. Nam ac elit risus, 
-				ac blandit dui. Duis rutrum porta tortor ut convallis.
-			</p>
-		</div>	
+			<div class="pin">
+				<img src="Images/Projects/MobileAds/u29.jpg" alt="Mobile Ads Experimental Research picture."/>
+				<p>
+					<strong>Mobile Ads Experimental Research</strong> 
+				</p>
+			</div>
+			
+            <div class="pin">
+				<img src="Images/Projects/TLR/u253.jpg" alt="Earthquake Preparation Website."/>
+				<p>
+					<strong>Earthquake Preparation Website</strong>
+				</p>
+			</div>
+			
+            <div class="pin">
+				<img src="Images/Projects/Sketches/Icon1.jpg" alt="Sketches of Design Ideas picture" />
+				<p>
+				<strong>Sketches of Design Ideas </strong>
+				</p>
+			</div>	
 		
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/2/2v3VhAp.png" />
-			<p>
-				Donec a fermentum nisi. Integer dolor est, commodo ut 
-				sagittis vitae, egestas at augue. Suspendisse id nulla 
-				ac urna vestibulum mattis. 
-			</p>
-		</div>
+				
+			
 	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/1/1swi3Qy.png" />
-			<p>
-				Donec a fermentum nisi. Integer dolor est, commodo ut 
-				sagittis vitae, egestas at augue. Suspendisse id nulla 
-				ac urna vestibulum mattis. 
-			</p>
-		</div>
+			<div class="pin">
+				<img src="Images/Projects/FieldworkPics/FP1.jpg" alt="Fieldwork pictures" />
+				<p>
+					<strong>Fieldwork Pictures</strong>
+                	Pictures I took during my fieldworks as an anthropologist.
+				</p>
+			</div>
+            
+			<div class="pin">
+				<img src="Images/Projects/Doodles/u45.jpg" alt="A picture of my doodle."/>
+				<p>
+					<strong>I love to Doodle!</strong> 
+				</p>
+			</div>
+            
+			<div class="pin">
+				<img src="Images/Projects/Films/u23.jpg" alt="Documentary and Experimental Films icon picture." />
+				<p>
+					<strong>Documentary and Experimental Films</strong>
+                	Films I made to document culture events and my students' work.
+				</p>
+			</div>
 	
-		<div class="pin">
-			<img src="http://cssdeck.com/uploads/media/items/6/6f3nXse.png" />
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-				Sed feugiat consectetur pellentesque. Nam ac elit risus, 
-				ac blandit dui. Duis rutrum porta tortor ut convallis.
-			</p>
+			</div>
 		</div>
 	</div>
-</div>
 
-end of test-->    
+<!--end of Pinterest style test-->  
+<!--  
     <p>
    I wrote everything on the page by using HTML! Waha, it was difficult, but I did it ^^ <code>this is in the tag of code</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.
    </p>
@@ -194,10 +118,12 @@ end of test-->
        <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
        <li>Aliquam tincidunt mauris eu risus.</li>
     </ul>
-    </article>
-    <!-- End Text -->
-    <!-- Begin Sidebar -->
-    <aside id= "sidebar">
+    -->
+ </article>
+<!-- End Text -->
+
+<!-- Begin Sidebar -->
+<aside id= "sidebar">
     <h2 id="sub-navigation-title">My Work</h2>
     
     <ul id="sub-navigation">
@@ -206,6 +132,6 @@ end of test-->
     <li><a href="http://students.washington.edu/susanwen/pictures.html">Pictures</a></li>
     <li><a href="http://students.washington.edu/susanwen/films.html">Films</a></li>
     </ul>
-  </aside>
+</aside>
     <!-- End Sidebar -->
 <?php include('includes/footer.php'); ?>
