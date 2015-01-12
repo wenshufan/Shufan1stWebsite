@@ -13,23 +13,22 @@
 		<div id="columns">
 		
         	<div class="pin">
-				<a href="http://students.washington.edu/susanwen/sketches.html">
+				<a href="portfolioAmazon.php">
             	<img src="Images/Projects/AWS/AmazonCookie.jpg" alt="AWS Internship picture."/>
 				<p>
 					<strong> AWS Internship </strong>
-                	<br>
-               
 				</p>
             	</a>
 			</div>
       
 	
 			<div class="pin">
-				<img src="Images/Projects/UsabilityTesting/u57.png" alt="Google Cloud Usability Testing picture" />
-				<p>
-					<strong>Google Cloud Usability Testing</strong>
-                <br>
-             	</p>
+				<a href="portfolioGoogleCloud.php">
+                	<img src="Images/Projects/UsabilityTesting/u57.png" alt="Google Cloud Usability Testing picture" />
+					<p>
+                		<strong>Google Cloud Storage Usability Testing</strong>
+               		</p> 
+                </a>
 			</div>
 	
 			<div class="pin">
@@ -99,26 +98,7 @@
 	</div>
 
 <!--end of Pinterest style test-->  
-<!--  
-    <p>
-   I wrote everything on the page by using HTML! Waha, it was difficult, but I did it ^^ <code>this is in the tag of code</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.
-   </p>
-    
-               
-    <ol>
-       <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-       <li>Aliquam tincidunt mauris eu risus.</li>
-    </ol>
-    
-    <blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>
-    
-    <h3>Header Level 3</h3>
-    
-    <ul>
-       <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-       <li>Aliquam tincidunt mauris eu risus.</li>
-    </ul>
-    -->
+
  </article>
 <!-- End Text -->
 

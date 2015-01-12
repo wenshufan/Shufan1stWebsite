@@ -130,6 +130,7 @@ img{
 	max-width:100%;
 	height: auto;
 }
+
 /* Header*/
 #header {
 	color: #FFF;
@@ -214,12 +215,14 @@ img{
 	
 }
 
-#content ul, #content ol{
+#content ul, #content ol
+	{
 	padding-left:10px;
-}
+	}
 
 /*Widges*/
-	#widgets {
+	#widgets 
+	{
 		overflow: hidden;
 	}
 	.widget-items{
@@ -241,7 +244,7 @@ img{
 	}
 	
 	#text img.headshot {
-		max-width:288px;
+		max-width: 288px;
 		border: 1px solid black;
 		float: left;
 		padding: 5px;
@@ -251,12 +254,8 @@ img{
 
 	}
 	
-	#text img.item {
-		max-width:250px;
-		border: 1px solid black;
+	#text img.comic {
 		float: left;
-		padding: 5px;
-		margin-right: 20px;
 		margin-bottom: 20px;
 		margin-top: 20px;
 	}
@@ -269,10 +268,15 @@ img{
 		margin-right:10px;
 		margin-left: 10px;	
 		}
-	#text img.aligh-right {
-		float:right;
-		margin-left: 10px;
-		margin-right: 10px;
+		
+	#text img.align-right {
+		max-width: 288px;
+		border: 1px splid black;
+		float: right;
+		padding: 5px;
+		margin-right: 20px;
+		margin-bottom: 20px;
+		margin-top: 20px;
 		}
 		
 	
@@ -428,44 +432,56 @@ p.copyright {
 	}
 }
 */
-#columns:hover .pin:not(:hover) {
+#columns:hover .pin:not(:hover) 
+{
 	opacity: 0.4;
 }	opacity: 0.4;
 
 
 /*Responsive design*/
 /*Desktop Screen 1024px or below*/
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) 
+{
 	
-	#content{
+	#content
+	{
 		padding: 20px 2.04%;
 	}
 	
-	#text{
+	#text
+	{
 		width: 65.95%;
 		
 	}
 		
-		
-		#text img.headshot {
+	#text img.headshot 
+	{
 		width: 45%;
-		}
-		
-		#text img.headshot {
-    width: 48%;
-    padding: 5px;
-}
-		
-		#sidebar {
-		width: 31.91%;
-		}
-		.widget-items{
-	
-		width: 31.91%; /*300px/940px*/
-		margin-right: 2.12%; /*20px/940px*/
-		
 	}
-	#columns {
+		
+	#text img.align-right 
+	{
+    	width: 48%;
+	}
+	
+	#text img.large
+	{
+		width: 30%;	
+	}
+		
+	#sidebar 
+	{
+		width: 31.91%;
+	}
+		.widget-items
+		{
+			width: 31.91%; /*300px/940px*/
+			margin-right: 2.12%; /*20px/940px*/
+		}
+	
+	/*Pinterest Style Format*/	
+	#columns 
+	{
 		-webkit-column-count: 4;
 		-moz-column-count: 4;
 		column-count: 4;
@@ -476,65 +492,112 @@ p.copyright {
 /*tablet screen 800px or below8*/
 @media screen and (max-width: 800px) {
 	
-	#logo{
+	#logo
+	{
 		padding-left: 20px;
+	}
 	
-		}
-	#navigation{
+	#navigation
+	{
 		padding-left: 20px;
-			}
-	#footer{
+	}
+	
+	#footer
+	{
 		padding-left: 20px;
-				}
-	#text img.headshot{
+	}
+	
+	#text img.headshot
+	{
 		float: none;
 		width: 100%;
 		margin: 0;
 		padding: 0;		
-			
 	}
-	#columns {
+	
+	#text img.align-right
+	{
+		float: none;
+		width: 100%;
+		margin: 0;
+		padding: 0;		
+	}
+	
+	#text img.large
+	{
+		float: none;
+		width: 70%;
+		margin: 0;
+		padding: 0;		
+	}
+	
+	/*Pinterest Style Format*/
+	#columns 
+	{
 		-webkit-column-count: 3;
 		-moz-column-count: 3;
 		column-count: 3;
 	}
 }
 /*phone screen 600px or below*/
-@media screen and (max-width: 600px){
+@media screen and (max-width: 600px)
+{
 
 		
-	#widgets section.widget-item {
+	#widgets section.widget-item 
+	{
 	width: 100%;
 	float: none;
 	margin-right: 0;
 	margin-bottom: 20px;
 	}
 	
-	#content{
+	#content
+	{
 		padding: 20px;
-		}
-		#text{
-			float: none;
-			width: auto;
-			}
-		#sidebar{
-			float: none;
-			width: auto;
-			}
-		#navigation {
-			display:none;
+	}
 	
-		}	
-		#navigation-items li {
-			display: block;
-			margin-right: 20px;
-		}
-		#toggle{
-			display: block;
-			padding-right: 20px;
-		}
-	/*test*/	
-		#columns {
+	#text
+	{
+		float: none;
+		width: auto;
+	}
+	
+	#text img.large
+	{
+		float: none;
+		width: 30%;
+		margin: 0;
+		padding: 0;	
+	}
+	
+	#sidebar
+	{
+		float: none;
+		width: auto;
+	}
+		
+	#navigation 
+	{
+		display:none;
+	}	
+		
+	#navigation-items li 
+	{
+		display: block;
+		margin-right: 20px;
+	}
+		
+	#toggle
+	{
+		display: block;
+		padding-right: 20px;
+	}
+	
+	
+	/*Pinterest Style Format*/	
+	#columns 
+	{
 		-webkit-column-count: 2;
 		-moz-column-count: 2;
 		column-count: 2;
