@@ -254,13 +254,10 @@ img{
 
 	}
 	
-	#text img.comic {
-		float: left;
-		margin-bottom: 20px;
-		margin-top: 20px;
-	}
+	
 	
 	#text img.small {
+		float: right;
 		max-width: 100px;
 		max-height: 200px;
 		border: 1px solid black;
@@ -279,7 +276,16 @@ img{
 		margin-top: 20px;
 		}
 		
-	
+	#text img.align-left {
+		max-width: 288px;
+		border: 1px splid black;
+		float: left;
+		padding: 5px;
+		margin-right: 20px;
+		margin-bottom: 20px;
+		margin-top: 20px;
+		}
+		
 /*hover over shadow effect*/
 	#text img.imgBox { 
 		max-width:250px;
