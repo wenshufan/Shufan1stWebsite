@@ -9,7 +9,7 @@
     <p>Always feeling like a victim of ill-designed products, I would like to devote myself to get rid of frustration from users and bring delight to them through reshaping their experience of the product.</p>
     <p> Now I am the second year student in Human Center Design and Engineering MS program at University of Washington. My expertise is in UX research, but I am fucusing on learning UX design and programing. I am taking classes about UX design to polish my design skills in Axure, HTML, CSS and PHP. </p>
     <p> In summer 2014, I interned at AWS, and realized that knowing how to program was critical to communicate with developers. Thus I wrote a simple app using C# and gained better understanding on how to communicate with developers when making suggestions and design decisions. </p>
-    <h2> My publications: </h2>
+    <h2> My publications in Anthropology: </h2>
     <ul>
       <li>Article: <a href="http://link.springer.com/article/10.1007%2Fs10624-013-9322-1"> Return Migration and Economic Turmoil: Experiences of Repatriated Chinese Professionals in Shanghai, China. </a> Dialectical Anthropology, November 2013, Springer LLC. New York </li> 
       

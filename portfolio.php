@@ -29,6 +29,9 @@
         <div class="pin"> <img src="Images/Projects/Sketches/Icon1.jpg" alt="Sketches of Design Ideas picture" />
           <p> <strong>Sketches of Design Ideas </strong> </p>
         </div>
+        <div class="pin"> <a href="portfolioOldWebsite.php"><img src="Images/Projects/OldWebsite/oldsite.png" alt="My old website created using Axure" />
+          <p> <strong>My Old Website created using Axure </strong> </p>
+          </a></div>
         <div class="pin"> <img src="Images/Projects/FieldworkPics/FP1.jpg" alt="Fieldwork pictures" />
           <p> <strong>Fieldwork Pictures</strong> Pictures I took during my fieldworks as an anthropologist. </p>
         </div>

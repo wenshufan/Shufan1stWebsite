@@ -3,7 +3,7 @@
     <article id="text">
   
     <img class="headshot" src="Images/IMG_5116-1.jpg" alt="It is me"/>
-<h2>Blog</h2>
+<h2>Portfolio </h2>
     <p><strong>Strong tag is used here</strong> It is from Kitchen sink Lorem Ipsom. It means we have to tell people the elements of typography that we are going to use in style.<em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. </p>
     
     <p>I wrote everything on the page by using HTML! Waha, it was difficult, but I did it ^^ <code>this is in the tag of code</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
