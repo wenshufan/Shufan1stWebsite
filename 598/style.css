@@ -285,7 +285,16 @@ img{
 		margin-bottom: 20px;
 		margin-top: 20px;
 		}
-		
+	#text img.large {
+		max-width: 100%;
+		border: 1px splid black;
+		float: left;
+		padding: 5px;
+		margin-right: 20px;
+		margin-bottom: 20px;
+		margin-top: 20px;
+		}
+
 /*hover over shadow effect*/
 	#text img.imgBox { 
 		max-width:250px;

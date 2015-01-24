@@ -5,7 +5,8 @@
     <h2>My Old Website created by using Axure</h2>
     <p><a href="http://9f8eyn.axshare.com/#p=home_page" target="_blank"> <img class="headshot" src="Images/Projects/OldWebsite/oldsite.png" alt="Screenshot of Shufan's old website"/> <strong>Please click here to see my old website </strong></a></p>
     <p><strong> I created my old website by using Axure.</strong> <br> Initially I wanted be a researcher, and would like to create a portfolio to show my research work. For me, a quick way to create a portfolio for a researcher is to create a site in Axure like a researcher would create a quick mockup.</p>
-    <p> My skill in Axure is definately sharpened after I made my very first website. But I decided to replace it with my new one made in HTML since I want to be a unicorn, and a unicorn need to know how to code. Moreover, a website should be responsive. There is no way for me to create a responsive website by using Axure but code. That is why I abbandoned my old site.</p>
+    <p> My skill in Axure is definitely sharpened after I made my very first website. But I decided to replace it with my new one made in HTML since I want to be a unicorn, and a unicorn need to know how to code. Moreover, a website should be responsive. There is no way for me to create a responsive website by using Axure but code. That is why I abandoned my old site.
+</p>
     <br>
     <br>
     <p> <a href="#top"> Back to Top </a> </p>
@@ -49,27 +50,7 @@
       </div>
     </div>
     
-    <!--end of Pinterest style test--> 
-    <!--  
-    <p>
-   I wrote everything on the page by using HTML! Waha, it was difficult, but I did it ^^ <code>this is in the tag of code</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.
-   </p>
-    
-               
-    <ol>
-       <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-       <li>Aliquam tincidunt mauris eu risus.</li>
-    </ol>
-    
-    <blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>
-    
-    <h3>Header Level 3</h3>
-    
-    <ul>
-       <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-       <li>Aliquam tincidunt mauris eu risus.</li>
-    </ul>
-    --> 
+   
   </article>
   <!-- End Text --> 
   
