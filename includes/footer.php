@@ -3,7 +3,7 @@
 
 
 <div id="footer">
-<p class="copyright">&copy; 1979-2015 <a href="index.html"> Shufan Wen</a> </p>
+<p class="copyright">&copy; 2000-2015 <a href="mailto:susanwen@uw.edu"> Shufan Wen</a> </p>
 <!-- Begin Footer-->
 
 </body>

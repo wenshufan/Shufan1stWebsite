@@ -17,18 +17,24 @@
     	<!-- Begin Widgets -->
 <div id="widgets">
 <section class="widget-item">
-<h2>About Me</h2>
+<a href="about.php"><h2>About Me</h2></a>
 <p>An UX researcher who is learning UX design and programming in order to provide holistic feedback on research subjects.</p>
 <p> <a href="http://students.washington.edu/susanwen/0pdffiles/ShufanSusanWenResume.pdf"> <strong> Click here to view my resume </strong> </a></p>
 </section>
 <section class="widget-item">
-<h2>Portfolio</h2>
-<p>My portfolio includes:</p>
+<a href="portfolio.php"><h2>Portfolio</h2></a>
+
 <ul>
-<li>Projects</li>
-<li>Sketches</li>
-<li>Films</li>
-<li>Photos</li>
+
+      <li><a href="portfolioAmazon.php">AWS Internship</a></li>
+      <li><a href="portfolioGoogleCloud.php">Google Cloud</a></li>
+      <li><a href="portfolioUxpertise.php">UXpertise Website</a></li>
+      <li><a href="portfolioMobileAds.php">Mobile Research</a></li>
+      <li><a href="portfolioPNV.php">Website Redesign</a></li>
+      <li><a href="portfolioTLR.php">Earthquake Preparation</a></li>
+      <li><a href="portfolioOldWebsite.php">Axure</a></li>
+      <li><a href="portfolioSketch.php">Sketches</a></li>
+
 </ul>
 </section>
 <section class="widget-item">

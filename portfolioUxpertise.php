@@ -70,13 +70,17 @@
   <!-- End Text --> 
   
   <!-- Begin Sidebar -->
-  <aside id= "sidebar">
+    <aside id= "sidebar">
     <h2 id="sub-navigation-title">My Work</h2>
     <ul id="sub-navigation">
-      <li><a href="http://students.washington.edu/susanwen/sketches.html">Sketches</a></li>
-      <li><a href="http://students.washington.edu/susanwen/projects.html">Projects</a></li>
-      <li><a href="http://students.washington.edu/susanwen/pictures.html">Pictures</a></li>
-      <li><a href="http://students.washington.edu/susanwen/films.html">Films</a></li>
+      <li><a href="portfolioAmazon.php">AWS Internship</a></li>
+      <li><a href="portfolioGoogleCloud.php">Google Cloud</a></li>
+      <li><a href="portfolioUxpertise.php">UXpertise Website</a></li>
+      <li><a href="portfolioMobileAds.php">Mobile Research</a></li>
+      <li><a href="portfolioPNV.php">Website Redesign</a></li>
+      <li><a href="portfolioTLR.php">Earthquake Preparation</a></li>
+      <li><a href="portfolioOldWebsite.php">Axure</a></li>
+      <li><a href="portfolioSketch.php">Sketches</a></li>
     </ul>
   </aside>
   <!-- End Sidebar -->

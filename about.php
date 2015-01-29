@@ -1,6 +1,6 @@
 <?php include('includes/header.php');  ?>
   <!-- Begin Text -->
-  <article id="text"> <img class="headshot" src="Images/Shufan.jpg" alt="It is Shufan"/>
+  <article id="text"> <img class="headshot" src="Images/me.jpg" alt="It is Shufan"/>
     <h2> About</h2>
     <p> Now I am a UX researcher and a visual/cultural anthropologist, who is spending a tremendous time working on design and codes. </p>
     <p>My passion is to apply my anthropological expertise to UX research and design that can greatly improve lives of others. </p>
@@ -18,12 +18,17 @@
   </article>
   <!-- End Text --> 
   <!-- Begin Sidebar -->
-  <aside id= "sidebar">
+    <aside id= "sidebar">
     <h2 id="sub-navigation-title">My Work</h2>
     <ul id="sub-navigation">
-      <li><a href="http://students.washington.edu/susanwen/0pdffiles/ShufanSusanWenResume.pdf">Resume</a></li>
-      <li><a href="portfolio.php">Portfolio</a></li>
-      <li><a href="www.bing.com">My Blog</a></li>
+      <li><a href="portfolioAmazon.php">AWS Internship</a></li>
+      <li><a href="portfolioGoogleCloud.php">Google Cloud</a></li>
+      <li><a href="portfolioUxpertise.php">UXpertise Website</a></li>
+      <li><a href="portfolioMobileAds.php">Mobile Research</a></li>
+      <li><a href="portfolioPNV.php">Website Redesign</a></li>
+      <li><a href="portfolioTLR.php">Earthquake Preparation</a></li>
+      <li><a href="portfolioOldWebsite.php">Axure</a></li>
+      <li><a href="portfolioSketch.php">Sketches</a></li>
     </ul>
   </aside>
   
