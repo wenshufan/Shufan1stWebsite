@@ -5,7 +5,8 @@
     <p> Now I am a UX researcher and a visual/cultural anthropologist, who is spending a tremendous time working on design and codes. </p>
     <p>My passion is to apply my anthropological expertise to UX research and design that can greatly improve lives of others. </p>
     <p>Always feeling like a victim of ill-designed products, I would like to devote myself to get rid of frustration from users and bring delight to them through reshaping their experience of the product.</p>
-    <p> Now I am the second year student in Human Center Design and Engineering MS program at University of Washington. My expertise is in UX research, but I am fucusing on learning UX design and programing. I am taking classes about UX design to polish my design skills in Axure, HTML, CSS and PHP. </p>
+    <p> Now I am the second year student in Human Center Design and Engineering MS program at University of Washington. My expertise is in UX research, but I am fucusing on learning UX design and programing. I coded this site by using HTML5, CSS and PHP.</p>
+    <p><a href="https://github.com/wenshufan/Shufan1stWebsite" target="_blank"> My GitHub Link: https://github.com/wenshufan/Shufan1stWebsite </a></p>
     <p> In summer 2014, I interned at AWS, and realized that knowing how to program was critical to communicate with developers. Thus I wrote a simple app using C# and gained better understanding on how to communicate with developers when making suggestions and design decisions. </p>
     <h2> My publications in Anthropology: </h2>
     <ul>

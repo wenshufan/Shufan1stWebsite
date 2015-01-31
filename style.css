@@ -245,8 +245,36 @@ img {
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
-
-
+#text figure.headshot {
+	max-width: 288px;
+	border: 1px solid black;
+	float: left;
+	padding: 5px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+#text figure.middle{
+	max-width:300px;
+	border:1px splid black;
+	padding: 5px;
+	margin-right:20px;
+		margin-bottom: 20px;
+	margin-top: 20px;
+}
+#text figure.align-right{
+	max-width:288px;
+	border:1px splid black;
+	float:right;
+	padding: 5px;
+	margin-right:20px;
+		margin-bottom: 20px;
+	margin-top: 20px;
+}
+#text figcaption{
+	margin-left:10px;
+	font-size:0.75em;
+	}
 /*-Imagebox See more at: http://www.corelangs.com/css/box/hover.html#sthash.JaW6D6EB.dpuf*/
 
 #text ul li {
@@ -391,6 +419,14 @@ p.copyright {
 #text img.large {
 	max-width: 100%;
 }
+
+#text figure.align-right {
+	width: 45%;
+}
+#text figure.middle {
+	width: 45%;
+}
+
 #sidebar {
 	width: 31.91%;
 }
@@ -433,6 +469,20 @@ p.copyright {
 #text img.large {
 	float: none;
 	max-width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#text figure.align-right {
+	float: none;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#text figure.middle {
+	float: none;
+	width: 100%;
 	margin: 0;
 	padding: 0;
 }

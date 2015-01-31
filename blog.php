@@ -5,15 +5,15 @@
     <!--Pinterest style codes-->
     <div id="wrapper">
       <div id="columns">
-        <div class="pin"> <a href="Blog/blog1.php"> <img src="Images/Blogs/Niu1.jpg" alt="Niu is 12 for Sea Hawks!"/>
+        <div class="pin"> <a href="blog1.php"> <img src="Images/Blogs/Niu1.jpg" alt="Niu is 12 for Sea Hawks!"/>
           <p> <strong> About My Website! </strong> </p>
           </a> </div>
-          <div class="pin"> <a href="portfolioGoogleCloud.php"> <img src="Images/Blogs/pic2.jpg" alt="Asian style photo!"/>
+          <div class="pin"> <a href="blog2.php"> <img src="Images/Blogs/pic2.jpg" alt="Asian style photo!"/>
           <p> <strong>Culture difference matters in app design!</strong> </p>
-          </a> </div>
-        <div class="pin"> <a href="portfolioTLR.php"><img src="Images/Blogs/Olympic.JPG" alt="Mt.Olympic in the rain"/>
-          <p> <strong>My life in Seattle</strong> </p>
           </a></div>
+        <div class="pin"><img src="Images/Blogs/Olympic.JPG" alt="Mt.Olympic in the rain"/>
+          <p> <strong>My life in Seattle</strong> </p>
+          </div>
         <div class="pin"> <a href="portfolioGoogleCloud.php"> <img src="Images/Blogs/Niu2.jpg" alt="A picture of Niu!"/>
           <p> <strong>I love my dog, even though she is like a pig...</strong> </p>
           </a> </div>

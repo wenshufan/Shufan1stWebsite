@@ -18,7 +18,7 @@
 <div id="widgets">
 <section class="widget-item">
 <a href="about.php"><h2>About Me</h2></a>
-<p>An UX researcher who is learning UX design and programming in order to provide holistic feedback on research subjects.</p>
+<p>A UX researcher/interaction designer who is learning visual design and programming in order to provide holistic feedback on research subjects.</p>
 <p> <a href="http://students.washington.edu/susanwen/0pdffiles/ShufanSusanWenResume.pdf"> <strong> Click here to view my resume </strong> </a></p>
 </section>
 <section class="widget-item">
